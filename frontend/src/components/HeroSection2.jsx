@@ -210,7 +210,7 @@ const HeroSection2 = () => {
             }
           />
           <button className="hire-me">
-            <Link to={"/Resume/UZAIR.pdf"} target="_blank">My Resume</Link>
+            <Link to={"/Resume/Ammara CV..pdf"} target="_blank">My Resume</Link>
           </button>
         </div>
         <div className="hero2-cube-container">
