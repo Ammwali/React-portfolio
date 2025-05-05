@@ -11,7 +11,7 @@ const useAddUser = () => {
       setError(null);
       setLoading(true);
 
-      const res = await fetch("http://localhost:4000/api/user/add", {
+      const res = await fetch("https://react-portfolio-backend-s3nb.onrender.com/api/user/add", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
